@@ -1,4 +1,7 @@
+Currently hosted at: 
 https://communitybans.glitch.me/
+
+Current commands page:  
 https://communitybans.glitch.me/commands
 
 # CommunityBans
