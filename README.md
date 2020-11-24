@@ -1,3 +1,6 @@
+https://communitybans.glitch.me/
+https://communitybans.glitch.me/commands
+
 # CommunityBans
 Documentation regarding the CommunityBans Twitch.tv bot.
 https://www.twitch.tv/CommunityBans
